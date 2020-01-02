@@ -15,37 +15,37 @@ On Easychat you can
 9. You can chek your followers.	
 
 <h2>Here is the login page:</h2>
-<img src="Login.PNG" width="800"; height="400">
+<img src="Login.PNG" width="400"; height="230">
 
 <h2>Here is the Signup page:</h2>
-<img src="Signup.PNG" width="800"; height="400">
+<img src="Signup.PNG" width="400"; height="230">
 
 <h2>Here is the Streams page:</h2>
-<img src="Streams.PNG" width="800"; height="400">
+<img src="Streams.PNG" width="400"; height="230">
 
 <h2>Here is the Top Streams page:</h2>
-<img src="Topstreams.PNG" width="800"; height="400">
+<img src="Topstreams.PNG" width="400"; height="230">
 
 <h2>Here is the page on which you can search People:</h2>
-<img src="People.PNG" width="800"; height="400">
+<img src="People.PNG" width="400"; height="230">
 
 <h2>Here is the page on which you can cheak people to you are Following:</h2>
-<img src="Following.PNG" width="800"; height="400">
+<img src="Following.PNG" width="400"; height="230">
 
 <h2>Here is the page on which you can check your Followers:</h2>
-<img src="Followers.PNG" width="800"; height="400">
+<img src="Followers.PNG" width="400"; height="230">
 
 <h2>Here is the page on which you can your Notifications:</h2>
-<img src="Notifications.PNG" width="800"; height="400">
+<img src="Notifications.PNG" width="400"; height="230">
 
 <h2>Here is the Comment section:</h2>
-<img src="Comments.PNG" width="800"; height="400">
+<img src="Comments.PNG" width="400"; height="230">
 
 <h2>Here is the Chat Page:</h2>
-<img src="Chat.PNG" width="800"; height="400">
+<img src="Chat.PNG" width="400"; height="230">
 
 <h2>Here is the Chatting Demo:</h2>
-<img src="Chatting.PNG" width="800"; height="400">
+<img src="Chatting.PNG" width="400"; height="230">
 
 
 <h4>How to Run<h4>
